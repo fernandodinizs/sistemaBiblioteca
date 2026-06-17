@@ -118,11 +118,11 @@ Consolidar o aprendizado prático de Programação Orientada a Objetos em Python
 ### Clonar o Repositório
 
 ```bash
-git clone https://github.com/seu-usuario/seu-repositorio.git
+git clone https://github.com/fernandodinizs/sistemaBiblioteca.git
 ```
 
 ```bash
-cd seu-repositorio
+cd sistemaBiblioteca
 ```
 
 ---
